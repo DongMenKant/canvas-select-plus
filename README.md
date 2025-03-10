@@ -60,7 +60,7 @@
 
 - 避免全 canvas 重绘，采用局部更新。
 
-- 分割一切和智能标注的后端接口可参考：https://github.com/lujiazho/SegDrawer。
+- 分割一切和智能标注的后端接口可参考：https://github.com/lujiazho/SegDrawer
 
 支持 UMD 模块规范
 
